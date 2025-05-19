@@ -54,7 +54,7 @@ desktop.ini
 
 # PDF files (if you don't want to track test CVs)
 *.pdf
-
+!Project_Report.pdf
 # Database files
 *.sqlite3
 *.db
